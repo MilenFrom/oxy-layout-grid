@@ -51,7 +51,8 @@ function gridLayout() {
       )[0];
       purrGridStyle.style.setProperty("display", "flex");
       purrGridStyle.style.setProperty("justify-content", "space-between");
-      purrGridStyle.style.setProperty("width", gridWidth);
+      purrGridStyle.style.setProperty("width", calc(gridWidth + "10px"));
+      purrGridStyle.style.setProperty("margin", "0 -5px");
       gridContainer = true;
     }
     if (gridContainer) {
