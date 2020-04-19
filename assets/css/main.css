@@ -1,0 +1,55 @@
+.ct-dom-tree-tab {
+  position: relative;
+}
+
+.grid-layout-toggle-button {
+  width: 50px;
+  height: 100%;
+  background-color: #434d55;
+  border: 1px solid #313a40;
+}
+
+
+/* .purrContainer {
+  width: inherit;
+  position: absolute;
+  top: 0;
+  z-index: 50;
+  pointer-events: none;
+  padding: 0 6px;
+  display:flex;
+  justify-content: center;
+} */
+
+/* .purrContainer {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 0;
+  pointer-events: none;
+  display:flex;
+  justify-content: center;
+  height: 100vh
+}
+
+.purrGrid {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.purrColumn {
+  width: 100%;
+  background-color: aqua;
+  opacity: 50%;
+  margin: 0 5px;
+  height: 100vh;
+}
+
+.purrColumn:first-child {
+  margin-left: 0px;
+}
+
+.purrColumn:last-child {
+  margin-right: 0px;
+} */
